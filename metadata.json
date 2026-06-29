@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Pemesanan Cafe Modern",
+  "description": "Aplikasi simulator pemesanan cafe modern lengkap dengan fitur keranjang belanja, kupon promo potongan harga, simulasi pembayaran interaktif, dan pelacakan status pesanan real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
